@@ -40,7 +40,7 @@ const Contact = () => {
               <HiOutlineChat className="contact__card-icon" />
               <span className="contact__card-data">Connect via Messenger</span>
               <a
-                href="https://m.me/your_messenger_link" // Replace with your Messenger link
+                href="https://www.facebook.com/profile.php?id=100071115797464" // Replace with your Messenger link
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact__button"
